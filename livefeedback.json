@@ -1,0 +1,14 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 4.6.5.2
+ */
+
+// Database 'livefeedback'
+
+// livefeedback.questions
+
+[{"id":"1","text":"conTestfrage","typ":"","category":""}]
+
+// livefeedback.rooms
+
+[{"id":"1","name":"conTest","conectionKey":"1000","active":"1"}]
